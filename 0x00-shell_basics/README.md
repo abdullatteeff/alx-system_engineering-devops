@@ -1,1 +1,1 @@
-non empty
+Display the contents list of your current directory.
