@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . | tail -nf 5 | sort 
+ls -1t | head -10
